@@ -5,7 +5,7 @@
 .page-header {
     text-align: center;
     padding: 20px 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .page-header h1 {
@@ -52,4 +52,11 @@ body {
 
 .about-body {
     background-color: lightblue;
+}
+
+.form-subtitle {
+    background-color: lightblue;
+    text-align: center;
+    padding: 12px;
+    margin-bottom: 30px;
 }
