@@ -49,3 +49,7 @@ body {
 .navbar {
     border-bottom: 3px solid lightblue;
 }
+
+.about-body {
+    background-color: lightblue;
+}
