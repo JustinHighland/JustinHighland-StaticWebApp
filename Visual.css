@@ -38,3 +38,14 @@ body {
 .card-body {
     background-color: lightblue;
 }
+
+.character-image {
+    border: 3px solid #212529
+}
+
+.character-info {
+    background-color: lightblue;
+}
+.navbar {
+    border-bottom: 3px solid lightblue;
+}
